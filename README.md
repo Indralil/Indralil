@@ -1,6 +1,6 @@
 - 👋 Hola soy Liliana
 - 👀 Me intereso por el quehacer público, la política y demás.
-- 🌱 Actualmente estoy en proceso de ser una desarrolladora web.
+- 🌱 Actualmente estoy en proceso de ser una desarrolladora web 🐍.
 - 💞️ Soy aprendiz, una padawan en formación que aspira a ser Jedi.
 - 📫 Mi codigo postal es 50740 jajaj
 
